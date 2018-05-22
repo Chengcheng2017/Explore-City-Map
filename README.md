@@ -28,10 +28,10 @@ Draw an area
 
 Show nearby places
 
-<img src="img/nearby.png" width="800">
+<img src="img/Nearby.png" width="800">
 
 Show routs
 
-<img src="img/route" width="800">
+<img src="img/route.png" width="800">
 
 
